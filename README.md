@@ -1,6 +1,5 @@
-# Learn Consul permissive mTLS
+# Learn Consul HashiDays 2023 Presentation
 
-This is a companion repo to the [Seamlessly migrate services to service mesh with permissive mTLS
-](), containing sample configuration to:
+This is a companion repo for the [HashiDays 2023 Consul Lab](), containing sample configuration to:
 
 -  
