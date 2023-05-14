@@ -14,8 +14,8 @@ kind: ServiceIntentions
 metadata:
   name: deny-all
 spec:
-  destination:
-    name: '*'
   sources:
     - name: '*'
       action: deny
+  destination:
+    name: '*'
