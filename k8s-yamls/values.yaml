@@ -1,8 +1,6 @@
 global:
-  # image: "hashicorp/consul:1.16.0"
-  # imageK8S: "hashicorp/consul-k8s-control-plane:1.2.0"
-  image: 'im2nguyenhashi/consul:demo'
-  imageK8S: 'im2nguyenhashi/consul-k8s-control-plane-dev:demo'
+  image: 'hashicorp/consul:1.16.0-rc1'
+  imageK8S: 'hashicorp/consul-k8s-control-plane:1.2.0-rc1'
   datacenter: dc1
   peering:
     enabled: true
